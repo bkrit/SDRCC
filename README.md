@@ -1,4 +1,4 @@
-# SDRCC
+# SDRCC (Self Driving Remote Control Car)
 Implementation of code on a RC car
 
 ## 1. Implementation with USB cable range
