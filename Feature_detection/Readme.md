@@ -1,1 +1,1 @@
-<h1>Feature Detectots</h1>
+<h1>Feature Detectors</h1>
